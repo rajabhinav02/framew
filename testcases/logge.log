@@ -1,0 +1,94 @@
+2021-06-22 12:15:11,004 :INFO : test_form :Form entry completed
+2021-06-22 12:15:12,771 :INFO : test_form :Form entry completed
+2021-06-22 12:15:12,771 :INFO : test_form :Form entry completed
+2021-06-22 12:15:15,461 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-22 12:15:15,513 :INFO : test_shoping :Quantity selected is 
+2021-06-22 12:15:15,513 :INFO : test_shoping :Quantity selected is 
+2021-06-22 12:15:15,560 :INFO : test_shoping :Price is 50000
+2021-06-22 12:15:15,560 :INFO : test_shoping :Price is 50000
+2021-06-22 12:15:15,560 :INFO : test_shoping :Price is 50000
+2021-06-22 12:15:15,607 :INFO : test_shoping :First total is 50000
+2021-06-22 12:15:15,607 :INFO : test_shoping :First total is 50000
+2021-06-22 12:15:15,607 :INFO : test_shoping :First total is 50000
+2021-06-22 12:15:15,607 :INFO : test_shoping :First total is 50000
+2021-06-22 12:15:17,185 :INFO : test_shoping :Final total is 50000
+2021-06-22 12:15:17,185 :INFO : test_shoping :Final total is 50000
+2021-06-22 12:15:17,185 :INFO : test_shoping :Final total is 50000
+2021-06-22 12:15:17,185 :INFO : test_shoping :Final total is 50000
+2021-06-22 12:15:17,185 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:53:05,781 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-30 21:53:05,928 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:53:05,928 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:53:06,162 :INFO : test_shoping :Price is 50000
+2021-06-30 21:53:06,162 :INFO : test_shoping :Price is 50000
+2021-06-30 21:53:06,162 :INFO : test_shoping :Price is 50000
+2021-06-30 21:53:06,324 :INFO : test_shoping :First total is 50000
+2021-06-30 21:53:06,324 :INFO : test_shoping :First total is 50000
+2021-06-30 21:53:06,324 :INFO : test_shoping :First total is 50000
+2021-06-30 21:53:06,324 :INFO : test_shoping :First total is 50000
+2021-06-30 21:53:06,408 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:53:06,408 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:53:06,408 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:53:06,408 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:53:06,408 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:55:26,355 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-30 21:55:26,533 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:55:26,533 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:55:26,649 :INFO : test_shoping :Price is 50000
+2021-06-30 21:55:26,649 :INFO : test_shoping :Price is 50000
+2021-06-30 21:55:26,649 :INFO : test_shoping :Price is 50000
+2021-06-30 21:55:26,752 :INFO : test_shoping :First total is 50000
+2021-06-30 21:55:26,752 :INFO : test_shoping :First total is 50000
+2021-06-30 21:55:26,752 :INFO : test_shoping :First total is 50000
+2021-06-30 21:55:26,752 :INFO : test_shoping :First total is 50000
+2021-06-30 21:55:26,841 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:55:26,841 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:55:26,841 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:55:26,841 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:55:26,841 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:57:51,024 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-30 21:57:51,134 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:57:51,134 :INFO : test_shoping :Quantity selected is 
+2021-06-30 21:57:51,222 :INFO : test_shoping :Price is 50000
+2021-06-30 21:57:51,222 :INFO : test_shoping :Price is 50000
+2021-06-30 21:57:51,222 :INFO : test_shoping :Price is 50000
+2021-06-30 21:57:51,279 :INFO : test_shoping :First total is 50000
+2021-06-30 21:57:51,279 :INFO : test_shoping :First total is 50000
+2021-06-30 21:57:51,279 :INFO : test_shoping :First total is 50000
+2021-06-30 21:57:51,279 :INFO : test_shoping :First total is 50000
+2021-06-30 21:57:51,314 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:57:51,314 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:57:51,314 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:57:51,314 :INFO : test_shoping :Final total is 50000
+2021-06-30 21:57:51,314 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:23:52,312 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-30 22:23:52,390 :INFO : test_shoping :Quantity selected is 
+2021-06-30 22:23:52,390 :INFO : test_shoping :Quantity selected is 
+2021-06-30 22:23:52,421 :INFO : test_shoping :Price is 50000
+2021-06-30 22:23:52,421 :INFO : test_shoping :Price is 50000
+2021-06-30 22:23:52,421 :INFO : test_shoping :Price is 50000
+2021-06-30 22:23:52,452 :INFO : test_shoping :First total is 50000
+2021-06-30 22:23:52,452 :INFO : test_shoping :First total is 50000
+2021-06-30 22:23:52,452 :INFO : test_shoping :First total is 50000
+2021-06-30 22:23:52,452 :INFO : test_shoping :First total is 50000
+2021-06-30 22:23:52,499 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:23:52,499 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:23:52,499 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:23:52,499 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:23:52,499 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:31:15,178 :INFO : test_form :Form entry completed
+2021-06-30 22:31:21,534 :INFO : test_shoping :Brand name selected is Blackberry
+2021-06-30 22:31:21,566 :INFO : test_shoping :Quantity selected is 
+2021-06-30 22:31:21,566 :INFO : test_shoping :Quantity selected is 
+2021-06-30 22:31:21,613 :INFO : test_shoping :Price is 50000
+2021-06-30 22:31:21,613 :INFO : test_shoping :Price is 50000
+2021-06-30 22:31:21,613 :INFO : test_shoping :Price is 50000
+2021-06-30 22:31:21,644 :INFO : test_shoping :First total is 50000
+2021-06-30 22:31:21,644 :INFO : test_shoping :First total is 50000
+2021-06-30 22:31:21,644 :INFO : test_shoping :First total is 50000
+2021-06-30 22:31:21,644 :INFO : test_shoping :First total is 50000
+2021-06-30 22:31:21,691 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:31:21,691 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:31:21,691 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:31:21,691 :INFO : test_shoping :Final total is 50000
+2021-06-30 22:31:21,691 :INFO : test_shoping :Final total is 50000
